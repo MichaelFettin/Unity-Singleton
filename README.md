@@ -29,3 +29,7 @@ public class GameManager : MonoBehaviourSingleton<GameManager>
     // ...
 }
 ```
+
+## License 
+
+This software is licensed under the MIT License. See the [license file](LICENSE) for details.  
